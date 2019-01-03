@@ -780,7 +780,7 @@
       </ReturnValue>
       <Docs>
         <summary>获取一个值，该值指示是否同步对 <see cref="T:System.Collections.Queue" /> 的访问（线程安全）。</summary>
-        <value>如果对 <see langword="true" /> 的访问是同步的（线程安全），则为 <see cref="T:System.Collections.Queue" />；否则为 <see langword="false" />。 默认值为 <see langword="false" />。</value>
+        <value>如果对 <see cref="T:System.Collections.Queue" /> 的访问是同步的（线程安全），则为 <see langword="true" />；否则为 <see langword="false" />。 默认值为 <see langword="false" />。</value>
         <remarks>
           <format type="text/markdown"><![CDATA[  
   
